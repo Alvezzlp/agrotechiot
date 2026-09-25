@@ -38,9 +38,9 @@ O sistema identifica anomalias em tempo real e dispara alertas locais (sonoros e
 
 Você pode simular este projeto diretamente no navegador sem precisar de componentes físicos!
 
-[![Simular no Wokwi](https://img.shields.io/badge/▶️_Testar_no-Wokwi-blue?style=for-the-badge&logo=wokwi)](COLE_O_SEU_LINK_DO_WOKWI_AQUI)
+[![Simular no Wokwi](https://img.shields.io/badge/▶️_Testar_no-Wokwi-blue?style=for-the-badge&logo=wokwi)](https://wokwi.com/projects/476141274344863745)
 
-🔗 **Link direto do circuito:** [Clique aqui para abrir a simulação no Wokwi](COLE_O_SEU_LINK_DO_WOKWI_AQUI)
+🔗 **Link direto do circuito:** [Clique aqui para abrir a simulação no Wokwi](https://wokwi.com/projects/476141274344863745)
 
 > **Como testar:**
 > 1. Clique no botão de **Play** verde para iniciar a simulação.
