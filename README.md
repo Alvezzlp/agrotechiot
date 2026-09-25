@@ -49,6 +49,17 @@ Você pode simular este projeto diretamente no navegador sem precisar de compone
 
 ---
 
+## 👥 Equipe de Desenvolvimento
+
+| Avatar | Nome | Função / Contribuição |
+| :---: | :--- | :--- |
+| 🧑‍💻 | **Guilherme Gandini** | Desenvolvedor / IoT |
+| 🧑‍💻 | **Isaque Ruas Batista** | Desenvolvedor / Hardware |
+| 🧑‍💻 | **José Augusto Gonçalves Sá Silva** | Desenvolvedor / Firmware |
+| 🧑‍💻 | **Victor Alves Silva** | Desenvolvedor / Documentação |
+
+---
+
 ## 💻 Código-Fonte (C++)
 
 <details>
