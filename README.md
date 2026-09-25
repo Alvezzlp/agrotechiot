@@ -34,6 +34,21 @@ O sistema identifica anomalias em tempo real e dispara alertas locais (sonoros e
 
 ---
 
+## 🌐 Simulação Interativa (Wokwi)
+
+Você pode simular este projeto diretamente no navegador sem precisar de componentes físicos!
+
+[![Simular no Wokwi](https://img.shields.io/badge/▶️_Testar_no-Wokwi-blue?style=for-the-badge&logo=wokwi)](COLE_O_SEU_LINK_DO_WOKWI_AQUI)
+
+🔗 **Link direto do circuito:** [Clique aqui para abrir a simulação no Wokwi](COLE_O_SEU_LINK_DO_WOKWI_AQUI)
+
+> **Como testar:**
+> 1. Clique no botão de **Play** verde para iniciar a simulação.
+> 2. Interaja com o **DHT22** subindo a temperatura acima de 30°C ou ajuste o **LDR** para escuro (< 1500).
+> 3. Observe o LED Vermelho acender e o Buzzer tocar!
+
+---
+
 ## 💻 Código-Fonte (C++)
 
 <details>
